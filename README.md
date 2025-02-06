@@ -73,6 +73,6 @@ Ludo is a strategy board game for two to four players, where players race their 
 ## Contact
 
 - **Abdul Moiz**  
-  Email: abdulmoiz8895@gmail.com 
-  GitHub: [AbdulMoiz2493](https://github.com/your-username)
+- Email: abdulmoiz8895@gmail.com 
+- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
 
